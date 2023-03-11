@@ -1,4 +1,5 @@
 # crudexample
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Flutter crud example practice
+>>>>>>> e8e70571e3610b0a2128d5bb795692fdfcfbf7d0
